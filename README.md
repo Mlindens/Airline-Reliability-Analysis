@@ -32,7 +32,7 @@ For this project, I wanted to answer these questions:
 6. What do the departure and arrival delays look like on any given weekday for a specific month?
 
 ## Cleaning and modeling
-Click [here](https://github.com/Mlindens/Airline_Reliability_Analysis/blob/main/Cleaning.md) to see how I cleaned, transformed, and modeled the data.
+Click [here](https://github.com/Mlindens/Airline-Reliability-Analysis/blob/main/cleaning.md) to see how I cleaned, transformed, and modeled the data.
 
 ## Key Insights
 * The average departure delay is **15 minutes** and the average arrival delay is **14 minutes**.
